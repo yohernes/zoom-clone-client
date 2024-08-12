@@ -9,7 +9,7 @@ namespace zoom_client
     public class NetworkClient
     {
         int portNo = 1500;
-        public static readonly string ipAddress = "10.27.201.150";
+        public static readonly string ipAddress = "127.0.0.1";
         TcpClient client;//client Socket
         byte[] data;//stor the data that send to & from the server
         int count = 0;
