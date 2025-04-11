@@ -1,4 +1,4 @@
-WinForms desktop app for online conferencing. LAN only (no hole punching)
+WinForms desktop app for online conferencing. LAN only (currently)
 # architecture
 ![image](https://github.com/user-attachments/assets/f75c807e-c455-4cdb-898c-ee51de2a08c5)
 
